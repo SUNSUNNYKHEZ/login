@@ -6,7 +6,7 @@ body{
 main{
     display: flex;
     justify-content: center;
-    height: 110vh;
+    height: 100vh;
     background-image: url(./images/fontback.png);
     background-size: cover;
 }
@@ -14,6 +14,7 @@ form{
     background-color: white;
     border: 2px solid black;
     width: 25%;
+    height:100vh
     margin-top: 36px;
     margin-bottom: 27px;
     border-radius: 10px;
